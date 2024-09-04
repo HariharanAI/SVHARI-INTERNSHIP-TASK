@@ -1,0 +1,5 @@
+echo  print
+ls list files n folders
+cd  change dir
+pwd present working dir
+mkdir make dir
