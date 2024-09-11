@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Listing the Files and Its Size"
+ls -lh
